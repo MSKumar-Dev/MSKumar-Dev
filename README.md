@@ -3,8 +3,8 @@
 - 🌱 I’m currently Persuing ... B-Tech
 - 💞️ I’m looking to collaborate on ... Software industry
 - 📫 How to reach me ... 
-[![Sandeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Developer)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Developer)
+![Sandeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Developer&theme=dark&show_icons=true)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Developer&theme=dark&show_icons=true)
 
 
 <!---
