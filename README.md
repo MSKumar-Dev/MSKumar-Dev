@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Software industry
 - 📫 How to reach me ...
 - 
-![Sandeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Developer&theme=dark&show_icons=true)
+![Sandeeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Developer&theme=github_dark_dimmed&show_icons=true)
 
 
 <!---
