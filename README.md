@@ -1,49 +1,52 @@
-![Header](./src/header_.png)
+# Hey, I'm Kumar 👋  
+**Glad you stopped by — welcome to my profile!** 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=Hi+there+👋,+I+am+Adhiraj+Singh;Open+Source+Contributor;+I+love+leveraging+tech+to+solve+realworld+complex+problems;+Full+Stack+Developer+proficient+in+React,+Next.js,+Spring+Boot,+Node.js;+Experienced+with+AWS,+Docker,+and+DevOps;+Solved+300%2B+questions+on+LeetCode;+Enthusiast+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
+---
 
+## 💻 Languages & Technologies
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
+### 🖥 Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,flask,fastapi,express" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,flask,nodejs,express" />
   </a>
 </p>
 
-- Frontend
+### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,tailwind" />
   </a>
 </p>
 
-- Database
+### 🗄 Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+### ☁ Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,netlify" />
   </a>
 </p>
 
-- Tools
+### 🛠 Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,figma,idea,vscode,postman,linux,bash" />
   </a>
 </p>
 
+---
 
+## 🌱 About Me
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+I’m passionate about **connecting with people** and building impactful solutions through **open-source tech**.  
+I always seek collaborative environments, where knowledge-sharing fuels innovation. 🚀  
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
 
-<br>
-<p align="right" > Created with 🧡 by <a href="">Adhiraj Singh</a></p>
+<p align="right">Created with 🧡 by <a href="#">MSKumar</a></p>
