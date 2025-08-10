@@ -8,7 +8,7 @@
 ### 🖥 Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,flask" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,flask" />
   </a>
 </p>
 
