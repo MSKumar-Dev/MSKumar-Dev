@@ -8,14 +8,14 @@
 ### 🖥 Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,flask,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,flask" />
   </a>
 </p>
 
 ### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,tailwind" />
   </a>
 </p>
 
@@ -26,12 +26,6 @@
   </a>
 </p>
 
-### ☁ Cloud & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,netlify" />
-  </a>
-</p>
 
 ### 🛠 Tools & DevOps
 <p align="left">
