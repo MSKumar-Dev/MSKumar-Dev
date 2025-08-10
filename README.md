@@ -38,7 +38,7 @@
 
 ## 🌱 About Me
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-I’m passionate about "connecting with people" and building impactful solutions through **open-source tech**.  
+I’m passionate about **connecting with people** and building impactful solutions through **open-source tech**.<br>  
 I always seek collaborative environments, where knowledge-sharing fuels innovation. 🚀  
 
 ---
